@@ -1,2 +1,4 @@
 def create():
   print('我很帅')
+def calc():
+  print('你真帅')
